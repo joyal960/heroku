@@ -1,0 +1,9 @@
+Deploy the app
+In this step you will deploy the app to Heroku.
+
+Create an app on Heroku, which prepares Heroku to receive your source code.
+
+heroku create
+Creating sharp-rain-871... done, stack is heroku-18
+http://sharp-rain-871.herokuapp.com/ | https://git.heroku.com/sharp-rain-871.git
+Git remote heroku added
