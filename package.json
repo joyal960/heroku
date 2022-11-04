@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/joyal960/heroku/issues"
   },
-  "homepage": "https://github.com/joyal960/heroku#readme"
+  "homepage": "https://github.com/joyal960/heroku#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
